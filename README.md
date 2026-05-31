@@ -6,6 +6,11 @@ This project helps students, educators, and networking enthusiasts understand ho
 
 ---
 
+## 🚀 Deploy URL: 
+https://tcp-vs-udp-chat-simulator.vercel.app/
+
+---
+
 ## 🚀 Features
 
 ### 🎨 Frontend Simulation
