@@ -91,7 +91,9 @@ HELLO
 ```text
 tcp-vs-udp-network-simulator/
 │
-├── tcpudp_chat.html
+├── index.html
+|
+|── tcp_udp_chat.py
 │
 ├── README.md
 
@@ -116,7 +118,7 @@ cd tcp-vs-udp-network-simulator
 Simply open:
 
 ```bash
-tcpudp_chat.html
+index.html
 ```
 
 or
